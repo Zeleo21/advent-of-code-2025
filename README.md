@@ -1,1 +1,1 @@
-Advent of code of 2025 in Javascript ! 
+Advent of code 2025 in Javascript ! 
