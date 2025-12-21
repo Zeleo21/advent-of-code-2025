@@ -1,0 +1,24 @@
+{
+  "name": "advent-of-code-2025",
+  "version": "1.0.0",
+  "description": "advent-of-code-2025",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "lib": "src/lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "day1": "tsx src/day1/day1.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^25.0.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "tsx": "^4.21.0"
+  }
+}
